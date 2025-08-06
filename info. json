@@ -1,10 +1,9 @@
 {
   "name": "Legacy Tarek",
   "symbol": "BLT",
-  "address": "0xbe0eBeBd622061Cb87084377570a1dB2A87B42BD",
-  "chainId": 56,
+  "address": "0xbe0ebebd622061cb87084377570a1db2a87b42bd",
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/ibnalam18/assets/main/logo.png",
   "tags": ["utility", "legacy", "blt"],
   "website": "https://legacytarek.com",
   "description": "Legacy Tarek (BLT) is a token deployed on Binance Smart Chain for legacy-based decentralized utility purposes."
