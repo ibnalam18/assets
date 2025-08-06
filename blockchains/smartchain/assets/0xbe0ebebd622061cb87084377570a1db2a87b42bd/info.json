@@ -1,0 +1,8 @@
+{
+  "name": "LegacyTarekToken",
+  "symbol": "BLT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbe0ebebd622061cb87084377570a1db2a87b42bd"
+}
